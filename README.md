@@ -1,7 +1,6 @@
 # Football Player Data Analysis
 
 Statistical analysis and market-value prediction for football player attributes, delivered as an interactive **Streamlit** web app.
-Built as an SI Lab project (B.Tech. CSE – AI & Data Science, Ramdeobaba University, Nagpur).
 
 
 ## What it does
